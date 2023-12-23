@@ -1,2 +1,2 @@
 def doo():
-    pass
+    return True
